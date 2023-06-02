@@ -48,7 +48,9 @@
       }
     },
     "administratorLogin": {
-      "type": "string"
+      "type": "string",
+      "metadata": {
+        "description": "The administrator username of the SQL Server."}
     }
   },
   "variables": {
